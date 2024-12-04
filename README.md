@@ -1,4 +1,4 @@
-# Morphing Project
+# Code Morphing Automation for TypeScript Components
 
 This project is designed to automate the merging of code from a defined template TypeScript file into a user file while maintaining validation for essential components like imports, methods, and class names. The project leverages the `ts-morph` library for manipulating and transforming TypeScript code programmatically.
 
